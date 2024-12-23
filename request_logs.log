@@ -1,0 +1,5 @@
+2024-12-23T02:17:37.538Z - Método: GET - Ruta solicitada: /joyas?limits=3&page=1&order_by=metal_ASC - IP del cliente: ::ffff:127.0.0.1
+2024-12-23T02:17:56.047Z - Método: GET - Ruta solicitada: /joyas?limits=2&page=1&order_by=metal_ASC - IP del cliente: ::ffff:127.0.0.1
+2024-12-23T02:20:14.353Z - Método: GET - Ruta solicitada: /joyas/ltros?precio_min=15000&precio_max=30000 - IP del cliente: ::ffff:127.0.0.1
+2024-12-23T02:20:44.810Z - Método: GET - Ruta solicitada: /joyas/ltros?categoria=aros&metal=oro - IP del cliente: ::ffff:127.0.0.1
+2024-12-23T02:21:27.342Z - Método: GET - Ruta solicitada: /joyas/ltros?categoria=aros&metal=plata&precio_min=20000&precio_max=30000 - IP del cliente: ::ffff:127.0.0.1
